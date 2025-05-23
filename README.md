@@ -1,7 +1,6 @@
 # REPO MasterGrip
-
-**REPO MasterGrip** is an AutoHotkey script designed to simplify and improve item control in the game **R.E.P.O.**.
 ![REPO-MasterGrip](https://github.com/user-attachments/assets/ea439ca6-e5af-48b2-9227-3525f8352955)
+**REPO MasterGrip** is an AutoHotkey script designed to simplify and improve item control in the game **R.E.P.O.**.
 
 
 ---
